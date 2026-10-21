@@ -1,0 +1,41 @@
+# ==========================================
+# GITIGNORE CHO DỰ ÁN GAME THẢO DƯỢC & ĐAN ĐẠO
+# ==========================================
+
+# 1. Bảo mật & Biến môi trường (Tuyệt đối không commit API Key)
+.env
+.env.*
+*.env
+
+# 2. Môi trường ảo Python (Virtual Environments)
+myenv/
+venv/
+.venv/
+env/
+ENV/
+
+# 3. Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 4. Thư mục thử nghiệm cũ (Đã thay thế bằng src/)
+draft/
+
+# 5. Cấu hình IDE & Hệ điều hành
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 6. Build & Log tạm thời
+*.log
+

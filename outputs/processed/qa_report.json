@@ -1,0 +1,65 @@
+{
+  "total_materials_evaluated": 13,
+  "valid_materials_count": 13,
+  "schema_pass_rate": 1.0,
+  "schema_errors": [],
+  "total_unique_keys_checked": 61,
+  "localization_missing_keys_count": 0,
+  "localization_parity_rate": 1.0,
+  "missing_keys_detail": [],
+  "alchemy_simulations": [
+    {
+      "name": "Đan Phương Mẫu 1 (mat_nhan_sam + mat_ke_huyet_dang + mat_linh_chi + mat_ha_thu_o_do)",
+      "result": {
+        "is_exploded": true,
+        "status": "Nổ Lò (Quân [elem_tho] và Thần [elem_moc] tương khắc gay gắt không có dược dẫn trung hòa)",
+        "harmony_score": 0.0,
+        "raw_potency": 1352.54,
+        "final_potency": 0.0,
+        "primary_effect": "eff_boost_max_vitality",
+        "synergy_chain": [
+          "Ngũ hành tương khắc trực tiếp: elem_tho vs elem_moc -> Nổ Lò!"
+        ],
+        "cleansed_hidden_effects": [
+          "eff_hidden_berserk"
+        ],
+        "retained_hidden_effects": []
+      }
+    },
+    {
+      "name": "Thử nghiệm Nổ Lò (mat_nhan_sam vs mat_ke_huyet_dang)",
+      "result": {
+        "is_exploded": true,
+        "status": "Nổ Lò (Quân [elem_tho] và Thần [elem_moc] tương khắc gay gắt không có dược dẫn trung hòa)",
+        "harmony_score": 0.0,
+        "raw_potency": 1421.07,
+        "final_potency": 0.0,
+        "primary_effect": "eff_boost_max_vitality",
+        "synergy_chain": [
+          "Ngũ hành tương khắc trực tiếp: elem_tho vs elem_moc -> Nổ Lò!"
+        ],
+        "cleansed_hidden_effects": [
+          "eff_hidden_berserk"
+        ],
+        "retained_hidden_effects": []
+      }
+    },
+    {
+      "name": "Thử nghiệm Đan Dược Thành Công (mat_nhan_sam + mat_linh_chi)",
+      "result": {
+        "is_exploded": false,
+        "status": "Thượng Phẩm (Bình Hòa)",
+        "harmony_score": 1.0,
+        "raw_potency": 1368.0,
+        "final_potency": 1368.0,
+        "primary_effect": "eff_boost_max_vitality",
+        "synergy_chain": [],
+        "cleansed_hidden_effects": [
+          "eff_hidden_berserk",
+          "eff_hidden_enlightenment"
+        ],
+        "retained_hidden_effects": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "materials": [
+    {
+      "common_name": "Nhân Sâm",
+      "scientific_name": "Panax ginseng",
+      "habitat_raw": "Mọc tự nhiên ở các vùng rừng núi cao, ẩm ướt, đất mùn giàu chất hữu cơ, dưới tán cây lớn hoặc nơi có ánh sáng tán xạ.",
+      "climate_raw": "Ưa khí hậu ôn đới, mát mẻ, ẩm ướt, chịu lạnh tốt, nhiệt độ trung bình khoảng 10-15°C.",
+      "appearance_raw": "Cây thân thảo sống lâu năm, cao khoảng 30-60cm. Rễ củ chính hình thoi hoặc hình người, màu vàng nhạt, có nhiều rễ con và rễ tơ. Thân mọc thẳng, tròn, màu xanh lục hoặc hơi tím. Lá kép chân vịt, mọc vòng 3-5 lá ở đỉnh thân, mỗi lá kép gồm 3-5 lá chét hình bầu dục, mép có răng cưa. Hoa nhỏ, màu lục nhạt, mọc thành tán đơn ở ngọn thân. Quả mọng, hình cầu dẹt, khi chín có màu đỏ tươi, chứa 1-2 hạt.",
+      "nature_raw": "Vị ngọt, hơi đắng, tính ôn. Quy kinh Tỳ, Phế, Tâm, Thận.",
+      "medicinal_uses_raw": [
+        "Đại bổ nguyên khí, ích huyết sinh tân",
+        "An thần ích trí, kiện tỳ ích phế",
+        "Trị suy nhược cơ thể, mệt mỏi, chán ăn",
+        "Hỗ trợ phục hồi sức khỏe sau bệnh, tăng cường miễn dịch"
+      ],
+      "toxicity_and_contraindications": "Dùng quá liều có thể gây tăng huyết áp, mất ngủ, bồn chồn, đau đầu. Kiêng kỵ người âm hư hỏa vượng, huyết nhiệt, phụ nữ có thai (thận trọng). Không dùng cùng Lê Lô.",
+      "growth_period_raw": "Cây sống lâu năm, thường thu hoạch rễ củ sau 4-6 năm trồng để đạt chất lượng tốt nhất.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Kê Huyết Đằng / Cỏ Máu",
+      "scientific_name": "Spatholobus suberectus",
+      "habitat_raw": "Mọc hoang ở các vùng đồi núi, vách đá, ven rừng nguyên sinh ẩm ướt, thường leo trên các cây gỗ lớn hoặc bụi rậm.",
+      "climate_raw": "Ưa ẩm mát, vùng núi cao râm mát, nhiệt độ trung bình, chịu được khí hậu nhiệt đới và cận nhiệt đới.",
+      "appearance_raw": "Dây leo thân gỗ lớn, dài hàng chục mét, đường kính thân có thể tới 10-15cm. Vỏ thân màu nâu xám, sần sùi. Khi chặt ngang thân, nhựa cây chảy ra màu đỏ tươi như máu, sau đó đông đặc lại. Lá kép lông chim lẻ, gồm 3 lá chét hình bầu dục hoặc trứng ngược, đầu nhọn, gốc tròn, mép nguyên, mặt trên xanh sẫm, mặt dưới nhạt hơn. Hoa nhỏ, màu tím nhạt hoặc trắng, mọc thành chùm ở kẽ lá hoặc đầu cành. Quả đậu dẹt, có lông mịn, chứa 1-2 hạt.",
+      "nature_raw": "Tính ấm, vị đắng chát, hậu ngọt. Quy kinh Can, Thận.",
+      "medicinal_uses_raw": [
+        "Bổ huyết, thông kinh hoạt lạc",
+        "Mạnh gân cốt, trị đau nhức xương khớp, tê bì chân tay",
+        "Trị thiếu máu, suy nhược cơ thể, kinh nguyệt không đều"
+      ],
+      "toxicity_and_contraindications": "Phụ nữ mang thai không nên dùng, người huyết nhiệt kiêng kỵ. Dùng liều cao có thể gây khó chịu đường tiêu hóa.",
+      "growth_period_raw": "Cây phát triển lâu năm, sau 3-5 năm bắt đầu có thể thu hoạch thân leo.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Linh Chi",
+      "scientific_name": "Ganoderma lucidum",
+      "habitat_raw": "Mọc ký sinh hoặc hoại sinh trên thân cây gỗ mục, gốc cây trong rừng sâu, ẩm ướt, ít ánh sáng, thường là các loại cây lá rộng.",
+      "climate_raw": "Ưa khí hậu ẩm ướt, nhiệt độ ôn hòa, vùng núi cao hoặc rừng nguyên sinh, nhiệt độ thích hợp 20-30°C.",
+      "appearance_raw": "Nấm có mũ hình thận hoặc hình quạt, đường kính 5-15cm, dày 1-2cm. Bề mặt mũ bóng loáng, màu nâu đỏ đến nâu tím, có vân đồng tâm và gờ nổi rõ. Cuống nấm dài, hình trụ, màu nâu sẫm, bóng, thường mọc lệch hoặc ở một bên mũ. Mặt dưới mũ có nhiều lỗ nhỏ li ti (lỗ thoát bào tử) màu trắng ngà khi non, chuyển sang nâu khi già. Thịt nấm dai, màu trắng hoặc nâu nhạt.",
+      "nature_raw": "Vị nhạt, tính bình. Quy kinh Tâm, Can, Phế, Thận.",
+      "medicinal_uses_raw": [
+        "Bổ khí an thần, ích tinh, cường thân kiện thể",
+        "Tăng cường miễn dịch, hỗ trợ điều trị suy nhược thần kinh, mất ngủ",
+        "Hỗ trợ điều hòa huyết áp, đường huyết, bảo vệ gan"
+      ],
+      "toxicity_and_contraindications": "Ít độc, nhưng một số người có thể bị khó tiêu, tiêu chảy nhẹ khi mới dùng. Người có cơ địa dị ứng, đang dùng thuốc chống đông máu cần thận trọng.",
+      "growth_period_raw": "Nấm phát triển nhanh, thường thu hoạch khi nấm trưởng thành hoàn toàn (vài tuần đến vài tháng tùy điều kiện môi trường).",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Hà Thủ Ô Đỏ",
+      "scientific_name": "Fallopia multiflora",
+      "habitat_raw": "Mọc hoang ở vùng núi, đồi, ven rừng, bờ bụi, nơi đất ẩm, có nhiều ánh sáng hoặc bán râm, thường ở độ cao dưới 1000m.",
+      "climate_raw": "Ưa khí hậu nhiệt đới và cận nhiệt đới, ẩm ướt, chịu được nắng nóng và khô hạn nhẹ.",
+      "appearance_raw": "Cây thân leo, sống lâu năm, thân quấn, dài 2-4m, có khi hơn. Thân non màu xanh lục, thân già hóa gỗ, màu nâu đỏ. Rễ củ phình to, hình bầu dục hoặc không đều, vỏ ngoài màu nâu đỏ sần sùi, ruột màu hồng đỏ hoặc nâu đỏ, có nhiều bột. Lá mọc so le, hình tim hoặc mũi tên, đầu nhọn, gốc hình tim, mép nguyên, mặt trên xanh sẫm, mặt dưới nhạt hơn. Hoa nhỏ, màu trắng hoặc trắng xanh, mọc thành chùm ở kẽ lá hoặc đầu cành. Quả bế hình 3 cạnh, màu đen bóng.",
+      "nature_raw": "Vị đắng, chát, hơi ngọt, tính ấm. Quy kinh Can, Thận.",
+      "medicinal_uses_raw": [
+        "Bổ huyết, ích tinh, dưỡng can thận",
+        "Làm đen râu tóc, mạnh gân xương, nhuận tràng",
+        "Trị suy nhược thần kinh, thiếu máu, râu tóc bạc sớm, táo bón"
+      ],
+      "toxicity_and_contraindications": "Hà Thủ Ô sống có thể gây tiêu chảy, đau bụng. Cần chế biến (chưng, đồ) để giảm độc tính và tăng tác dụng bổ. Người tỳ vị hư hàn, đại tiện lỏng, phụ nữ có thai cần thận trọng.",
+      "growth_period_raw": "Cây sống lâu năm, củ thường được thu hoạch sau 3-5 năm trồng để đạt kích thước và dược tính tốt.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Băng Phiến / Long Não",
+      "scientific_name": "Dryobalanops aromatica",
+      "habitat_raw": "Băng Phiến là tinh thể được chiết xuất từ nhựa cây Long Não (Dryobalanops aromatica) hoặc tổng hợp. Cây Long Não mọc tự nhiên ở các khu rừng nhiệt đới ẩm ướt ở Đông Nam Á, đặc biệt là Sumatra và Borneo.",
+      "climate_raw": "Khí hậu nhiệt đới ẩm, mưa nhiều, nhiệt độ cao quanh năm.",
+      "appearance_raw": "Băng Phiến là tinh thể màu trắng trong, hình vảy hoặc khối nhỏ, có mùi thơm đặc trưng, dễ bay hơi. Cây Long Não là cây gỗ lớn, cao tới 60-70m, thân thẳng, vỏ màu nâu xám. Lá đơn, mọc so le, hình bầu dục hoặc trứng, mép nguyên, mặt trên xanh bóng. Hoa nhỏ, màu trắng, mọc thành chùm. Quả nang có cánh. Tinh thể Băng Phiến được tìm thấy trong các khe nứt của thân cây già.",
+      "nature_raw": "Vị cay, đắng, tính hơi hàn. Quy kinh Tâm, Tỳ, Phế.",
+      "medicinal_uses_raw": [
+        "Khai khiếu tỉnh thần, thanh nhiệt, chỉ thống, tiêu viêm, sát trùng",
+        "Dùng ngoài trị đau mắt đỏ, viêm họng, đau răng, vết thương",
+        "Dùng trong (liều rất nhỏ) trị trúng phong, hôn mê"
+      ],
+      "toxicity_and_contraindications": "Rất độc, không được dùng đường uống với liều lượng lớn. Có thể gây co giật, hôn mê, suy hô hấp. Phụ nữ có thai, trẻ em, người tỳ vị hư hàn, người có vết thương hở lớn không nên dùng. Chỉ dùng ngoài hoặc dùng trong với liều cực nhỏ theo chỉ định của thầy thuốc.",
+      "growth_period_raw": "Cây Long Não là cây gỗ lớn, sống hàng trăm năm. Tinh thể Băng Phiến thường được thu hoạch từ cây già.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Ba Kích Thiên",
+      "scientific_name": "Morinda officinalis",
+      "habitat_raw": "Mọc hoang ở vùng đồi núi thấp, trung du, ven rừng, nơi đất ẩm, có nhiều mùn, dưới tán cây bụi hoặc cây gỗ nhỏ, thường ở độ cao dưới 500m.",
+      "climate_raw": "Ưa khí hậu nhiệt đới ẩm, mát mẻ, chịu bóng râm hoặc bán râm.",
+      "appearance_raw": "Cây thân thảo dạng dây leo, sống lâu năm, thân mảnh, có lông mịn. Lá mọc đối, hình bầu dục hoặc trứng ngược, đầu nhọn, mép nguyên, mặt trên xanh sẫm, mặt dưới nhạt hơn, có lông. Hoa nhỏ, màu trắng, mọc thành tán ở kẽ lá. Quả mọng, hình cầu, khi chín màu đỏ. Rễ củ hình trụ, dài, phân nhánh không đều, vỏ ngoài màu tím nhạt hoặc nâu, ruột màu tím (Ba Kích tím) hoặc trắng (Ba Kích trắng), có lõi gỗ cứng ở giữa.",
+      "nature_raw": "Vị cay, ngọt, tính hơi ôn. Quy kinh Can, Thận.",
+      "medicinal_uses_raw": [
+        "Bổ thận tráng dương, mạnh gân cốt, trừ phong thấp",
+        "Trị liệt dương, di tinh, xuất tinh sớm, đau lưng mỏi gối",
+        "Trị phong thấp tê bại, yếu sinh lý"
+      ],
+      "toxicity_and_contraindications": "Người âm hư hỏa vượng, đại tiện táo bón không nên dùng. Dùng quá liều có thể gây nóng trong, khó chịu. Cần loại bỏ lõi gỗ trước khi dùng để tránh kích ứng.",
+      "growth_period_raw": "Cây sống lâu năm, rễ củ thường được thu hoạch sau 3-5 năm trồng để đạt dược tính tốt.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Đương Quy",
+      "scientific_name": "Angelica sinensis",
+      "habitat_raw": "Mọc ở vùng núi cao, khí hậu mát mẻ, ẩm ướt, đất mùn giàu dinh dưỡng, thường ở độ cao 1500-3000m.",
+      "climate_raw": "Ưa khí hậu ôn đới, mát mẻ, ẩm ướt, chịu lạnh tốt, nhiệt độ trung bình 10-18°C.",
+      "appearance_raw": "Cây thân thảo sống lâu năm, cao 40-80cm. Thân rỗng, có rãnh dọc, màu tím. Lá kép lông chim 2-3 lần, phiến lá xẻ sâu thành các thùy hình trứng hoặc mũi mác, mép có răng cưa. Hoa nhỏ, màu trắng, mọc thành tán kép lớn ở ngọn thân. Quả bế dẹt, hình bầu dục, có cánh mỏng. Rễ củ hình trụ, phân nhánh, màu vàng nâu, có nhiều rễ con, mùi thơm đặc trưng, vị ngọt hơi đắng.",
+      "nature_raw": "Vị ngọt, cay, hơi đắng, tính ấm. Quy kinh Can, Tâm, Tỳ.",
+      "medicinal_uses_raw": [
+        "Bổ huyết hoạt huyết, điều kinh chỉ thống",
+        "Nhuận tràng thông tiện, tiêu sưng giảm đau",
+        "Trị thiếu máu, kinh nguyệt không đều, đau bụng kinh, bế kinh, táo bón do huyết hư"
+      ],
+      "toxicity_and_contraindications": "Phụ nữ có thai (đặc biệt 3 tháng đầu) cần thận trọng, người đại tiện lỏng, tỳ vị hư hàn không nên dùng. Dùng liều cao có thể gây đầy bụng, tiêu chảy.",
+      "growth_period_raw": "Cây sống lâu năm, rễ củ thường được thu hoạch sau 2-3 năm trồng.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Xuyên Khung",
+      "scientific_name": "Ligusticum striatum",
+      "habitat_raw": "Mọc ở vùng núi cao, khí hậu mát mẻ, ẩm ướt, đất mùn giàu dinh dưỡng, thường ở độ cao 1000-2500m.",
+      "climate_raw": "Ưa khí hậu ôn đới, mát mẻ, ẩm ướt, chịu lạnh tốt, nhiệt độ trung bình 10-18°C.",
+      "appearance_raw": "Cây thân thảo sống lâu năm, cao 40-60cm. Thân rỗng, có rãnh dọc. Lá kép lông chim 2-3 lần, phiến lá xẻ sâu thành các thùy hình trứng hoặc mũi mác, mép có răng cưa. Hoa nhỏ, màu trắng, mọc thành tán kép ở ngọn thân. Quả bế dẹt, hình bầu dục. Thân rễ (củ) hình khối không đều, có nhiều mấu lồi, màu nâu vàng, mùi thơm hắc đặc trưng, vị cay hơi đắng.",
+      "nature_raw": "Vị cay, tính ấm. Quy kinh Can, Đởm, Tâm bào.",
+      "medicinal_uses_raw": [
+        "Hoạt huyết hành khí, khu phong chỉ thống",
+        "Trị đau đầu, đau bụng kinh, bế kinh",
+        "Trị đau nhức xương khớp, phong thấp"
+      ],
+      "toxicity_and_contraindications": "Phụ nữ có thai, người âm hư hỏa vượng, kinh nguyệt ra nhiều không nên dùng. Dùng liều cao có thể gây chóng mặt, buồn nôn.",
+      "growth_period_raw": "Cây sống lâu năm, thân rễ thường được thu hoạch sau 2-3 năm trồng.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Phụ Tử / Ô Đầu",
+      "scientific_name": "Aconitum carmichaelii",
+      "habitat_raw": "Mọc hoang ở vùng núi cao, khí hậu lạnh, ẩm ướt, đất mùn, ven suối, dưới tán rừng, thường ở độ cao trên 1000m.",
+      "climate_raw": "Ưa khí hậu lạnh, ẩm ướt, vùng núi cao, chịu được nhiệt độ thấp.",
+      "appearance_raw": "Cây thân thảo sống lâu năm, cao 60-150cm. Rễ củ mẹ (Ô Đầu) hình nón, màu nâu đen, có nhiều rễ con và củ con (Phụ Tử) mọc ra từ củ mẹ. Thân mọc thẳng, lá mọc so le, xẻ sâu thành 3-5 thùy hình chân vịt, mép có răng cưa. Hoa màu xanh tím hoặc tím sẫm, hình mũ, mọc thành chùm ở ngọn thân. Quả đại.",
+      "nature_raw": "Vị cay, ngọt, tính đại nhiệt, có độc. Quy kinh Tâm, Tỳ, Thận.",
+      "medicinal_uses_raw": [
+        "Hồi dương cứu nghịch, bổ hỏa trợ dương",
+        "Tán hàn chỉ thống, trừ phong thấp",
+        "Trị chân tay lạnh, mạch vi, đau bụng do hàn, phong thấp đau nhức xương khớp (chỉ dùng sau khi đã chế biến kỹ lưỡng để giảm độc tính)"
+      ],
+      "toxicity_and_contraindications": "Cực độc. Toàn bộ cây, đặc biệt là rễ củ, chứa aconitin gây độc thần kinh và tim mạch nghiêm trọng. Dù đã chế biến, vẫn cần dùng rất thận trọng, đúng liều lượng theo chỉ định của thầy thuốc. Triệu chứng ngộ độc: tê môi, lưỡi, mặt, chân tay, buồn nôn, nôn, tiêu chảy, loạn nhịp tim, hạ huyết áp, co giật, suy hô hấp, tử vong. Kiêng kỵ phụ nữ có thai, người âm hư dương thịnh, huyết nhiệt, người có bệnh tim mạch.",
+      "growth_period_raw": "Cây sống lâu năm, rễ củ thường được thu hoạch vào mùa đông.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi)"
+    },
+    {
+      "common_name": "Đoạn Trường Thảo / Lá Ngón",
+      "scientific_name": "Gelsemium elegans",
+      "habitat_raw": "Mọc hoang ở vùng đồi núi, ven rừng, bờ bụi, nơi đất ẩm, có nhiều ánh sáng hoặc bán râm. Phân bố rộng rãi ở các tỉnh miền núi phía Bắc Việt Nam.",
+      "climate_raw": "Ưa khí hậu nhiệt đới và cận nhiệt đới, ẩm ướt, chịu được nắng nóng.",
+      "appearance_raw": "Cây thân leo, thân gỗ nhỏ, dài 3-12m, thân non màu xanh, thân già màu nâu. Lá mọc đối, hình trứng hoặc bầu dục, đầu nhọn, mép nguyên, mặt trên xanh bóng, mặt dưới nhạt hơn. Hoa màu vàng tươi, hình phễu, mọc thành chùm ở kẽ lá hoặc đầu cành, có mùi thơm nhẹ. Quả nang hình bầu dục, chứa nhiều hạt có cánh. Toàn bộ cây có nhựa mủ màu vàng nhạt.",
+      "nature_raw": "Vị đắng, tính rất hàn, cực độc.",
+      "medicinal_uses_raw": [
+        "KHÔNG CÓ CÔNG DỤNG Y HỌC CỔ TRUYỀN ĐƯỢC KHUYẾN CÁO SỬ DỤNG TRONG NỘI KHOA. Đôi khi được dùng ngoài da trong dân gian để trị ghẻ lở, nhưng cực kỳ nguy hiểm và không được khuyến khích."
+      ],
+      "toxicity_and_contraindications": "Cực độc. Toàn bộ cây chứa các alkaloid gelsemin, gelsemicin, gelsevirin gây độc thần kinh nghiêm trọng. Chỉ cần một lượng rất nhỏ (vài lá) cũng có thể gây tử vong. Triệu chứng ngộ độc: chóng mặt, buồn nôn, nôn, đau bụng, yếu cơ, khó thở, co giật, suy hô hấp, ngừng tim. KHÔNG ĐƯỢC SỬ DỤNG DƯỚI BẤT KỲ HÌNH THỨC NÀO.",
+      "growth_period_raw": "Cây sống lâu năm, phát triển nhanh, có thể ra hoa kết quả quanh năm.",
+      "source_reference": "Cây thuốc và vị thuốc Việt Nam (Đỗ Tất Lợi), các tài liệu về độc dược học"
+    },
+    {
+      "common_name": "Hoàng Kỳ",
+      "scientific_name": "Astragalus membranaceus",
+      "habitat_raw": "Mọc hoang hoặc được trồng ở các vùng núi cao, sườn đồi, bìa rừng, nơi đất cát pha, tơi xốp, thoát nước tốt. Phân bố chủ yếu ở các tỉnh phía Bắc Trung Quốc, Mông Cổ, Triều Tiên.",
+      "climate_raw": "Ưa khí hậu ôn đới, mát mẻ, có đủ ánh sáng nhưng không quá gay gắt. Cây chịu hạn tốt, không chịu úng ngập.",
+      "appearance_raw": "Cây thảo sống lâu năm, cao khoảng 50-80 cm. Rễ hình trụ dài, to, vỏ ngoài màu vàng nâu, thịt màu vàng nhạt, có nhiều vân ngang. Thân mọc thẳng, có lông mềm. Lá kép lông chim lẻ, mọc so le, gồm 13-27 lá chét hình bầu dục hoặc thuôn dài, mép nguyên, mặt dưới có lông trắng. Hoa mọc thành chùm ở kẽ lá, màu vàng nhạt. Quả là một loại đậu hình trụ, hơi dẹt, có lông.",
+      "nature_raw": "Tính ôn, vị ngọt. Quy kinh Tỳ, Phế.",
+      "medicinal_uses_raw": [
+        "Bổ khí thăng dương, ích vệ cố biểu (tăng cường sức đề kháng, chống ra mồ hôi trộm)",
+        "Lợi thủy tiêu thũng (lợi tiểu, giảm phù nề)",
+        "Thác độc sinh cơ (hỗ trợ lành vết thương, mụn nhọt)",
+        "Trị tỳ khí hư nhược, trung khí hạ hãm, khí hư thoát giang, khí hư băng lậu, biểu hư tự hãn, thủy thũng, ung nhọt lâu ngày không vỡ hoặc đã vỡ nhưng không liền miệng"
+      ],
+      "toxicity_and_contraindications": "Không dùng cho người âm hư hỏa vượng, thấp nhiệt, thực nhiệt, hoặc người đang bị cảm mạo, sốt cao. Có thể gây đầy bụng, khó tiêu nếu dùng liều cao.",
+      "growth_period_raw": "Cây trồng sau 3-4 năm có thể thu hoạch rễ.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam của Đỗ Tất Lợi"
+    },
+    {
+      "common_name": "Đại Hoàng",
+      "scientific_name": "Rheum officinale",
+      "habitat_raw": "Mọc hoang ở vùng núi cao, thung lũng ẩm ướt, bìa rừng, nơi đất sâu, màu mỡ, thoát nước tốt. Phân bố chủ yếu ở các tỉnh miền núi Tây Nam Trung Quốc (Tứ Xuyên, Vân Nam, Quý Châu).",
+      "climate_raw": "Ưa khí hậu mát mẻ, ẩm ướt, có độ cao lớn. Cây chịu lạnh tốt, không chịu nóng và khô hạn.",
+      "appearance_raw": "Cây thảo sống lâu năm, thân rỗng, cao 1-2 mét. Rễ củ to lớn, mập, hình trụ hoặc hình nón, vỏ ngoài màu nâu đỏ, thịt màu vàng cam, có nhiều vân hình mạng lưới. Lá to, mọc so le, có cuống dài, phiến lá hình tim hoặc hình trứng rộng, xẻ thùy sâu, mép có răng cưa. Hoa nhỏ, màu trắng xanh hoặc tím nhạt, mọc thành chùm lớn ở ngọn thân. Quả là quả bế có 3 cạnh, màu nâu đỏ.",
+      "nature_raw": "Tính hàn, vị đắng. Quy kinh Tỳ, Vị, Đại tràng, Can, Tâm bào.",
+      "medicinal_uses_raw": [
+        "Tả hạ công tích, thanh nhiệt tả hỏa (tẩy xổ, thanh nhiệt, giải độc)",
+        "Lương huyết giải độc, khứ ứ thông kinh (làm mát máu, giải độc, hoạt huyết)",
+        "Lợi thấp thoái hoàng (lợi tiểu, trị vàng da)",
+        "Trị táo bón do nhiệt, tích trệ, sốt cao mê sảng, đau bụng đầy trướng, kiết lỵ, mụn nhọt sưng đau, bỏng, chảy máu cam, đau mắt đỏ"
+      ],
+      "toxicity_and_contraindications": "Phụ nữ có thai, phụ nữ đang cho con bú, người tỳ vị hư hàn, người đang hành kinh không nên dùng. Dùng liều cao hoặc kéo dài có thể gây tiêu chảy, đau bụng, mất nước, rối loạn điện giải.",
+      "growth_period_raw": "Rễ củ thường được thu hoạch sau 3-4 năm trồng.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam của Đỗ Tất Lợi"
+    },
+    {
+      "common_name": "Kim Ngân Hoa",
+      "scientific_name": "Lonicera japonica",
+      "habitat_raw": "Mọc hoang ở các vùng đồi núi thấp, ven rừng, bờ bụi, ven đường, nơi đất ẩm, có ánh sáng. Phân bố rộng rãi ở Việt Nam, Trung Quốc, Nhật Bản, Triều Tiên.",
+      "climate_raw": "Ưa khí hậu ôn hòa đến cận nhiệt đới, ẩm ướt, chịu được cả nắng và bóng râm.",
+      "appearance_raw": "Cây thân leo, sống lâu năm, thân cành mảnh, có lông mịn khi còn non, sau nhẵn. Lá mọc đối, hình trứng hoặc bầu dục, mép nguyên, mặt trên xanh sẫm, mặt dưới nhạt hơn, có lông. Hoa mọc thành chùm ở kẽ lá, ban đầu màu trắng, sau chuyển sang vàng, có mùi thơm dịu. Mỗi chùm thường có 2 hoa, hình ống, cánh hoa xẻ thành hai môi. Quả mọng hình cầu, màu đen khi chín.",
+      "nature_raw": "Tính hàn, vị ngọt, hơi đắng. Quy kinh Phế, Vị, Đại tràng.",
+      "medicinal_uses_raw": [
+        "Thanh nhiệt giải độc (làm mát, giải độc cơ thể)",
+        "Tán phong nhiệt (trừ phong nhiệt, trị cảm mạo)",
+        "Tiêu viêm, kháng khuẩn (chống viêm, diệt khuẩn)",
+        "Trị cảm mạo phong nhiệt, sốt, ho, viêm họng, mụn nhọt, ban sởi, lỵ cấp tính, viêm đường tiết niệu"
+      ],
+      "toxicity_and_contraindications": "Người tỳ vị hư hàn, tiêu chảy không nên dùng. Dùng liều cao có thể gây rối loạn tiêu hóa nhẹ.",
+      "growth_period_raw": "Cây phát triển nhanh, hoa thường được thu hoạch vào mùa xuân hè khi mới nở hoặc chớm nở.",
+      "source_reference": "Dược Điển Việt Nam, Cây thuốc và vị thuốc Việt Nam của Đỗ Tất Lợi"
+    }
+  ]
+}

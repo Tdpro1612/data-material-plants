@@ -1,0 +1,477 @@
+[
+  {
+    "id": "mat_nhan_sam",
+    "name_key": "mat_nhan_sam_name",
+    "desc_key": "mat_nhan_sam_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_on_hoa",
+    "element_key": "elem_tho",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 250,
+    "growth_years_range": [
+      10,
+      100
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_boost_max_vitality",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_regen_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_restore_energy",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_spirit_focus",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_berserk",
+        "trigger_chance": 0.15
+      }
+    ]
+  },
+  {
+    "id": "mat_ke_huyet_dang",
+    "name_key": "mat_ke_huyet_dang_name",
+    "desc_key": "mat_ke_huyet_dang_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_rung_nguyen_sinh",
+    "climate_key": "clim_am_thap",
+    "element_key": "elem_moc",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 180,
+    "growth_years_range": [
+      3,
+      15
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_restore_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_body_refining",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_regen_vitality",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_berserk",
+        "trigger_chance": 0.1
+      }
+    ]
+  },
+  {
+    "id": "mat_linh_chi",
+    "name_key": "mat_linh_chi_name",
+    "desc_key": "mat_linh_chi_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_rung_nguyen_sinh",
+    "climate_key": "clim_am_thap",
+    "element_key": "elem_vo_tinh",
+    "nature_key": "nat_binh",
+    "base_potency": 280,
+    "growth_years_range": [
+      1,
+      5
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_boost_max_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_boost_max_energy",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_spirit_focus",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_regen_vitality",
+        "weight": 0.7
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_enlightenment",
+        "trigger_chance": 0.05
+      }
+    ]
+  },
+  {
+    "id": "mat_ha_thu_o_do",
+    "name_key": "mat_ha_thu_o_do_name",
+    "desc_key": "mat_ha_thu_o_do_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_dong_bang",
+    "climate_key": "clim_am_thap",
+    "element_key": "elem_thuy",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 220,
+    "growth_years_range": [
+      3,
+      30
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_boost_max_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_body_refining",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_boost_max_energy",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.15
+      }
+    ]
+  },
+  {
+    "id": "mat_bang_phien",
+    "name_key": "mat_bang_phien_name",
+    "desc_key": "mat_bang_phien_desc",
+    "grade_key": "grade_huyen_pham",
+    "habitat_key": "hab_rung_nguyen_sinh",
+    "climate_key": "clim_hoa_nhiet",
+    "element_key": "elem_kim",
+    "nature_key": "nat_vi_han",
+    "base_potency": 800,
+    "growth_years_range": [
+      100,
+      500
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_spirit_focus",
+        "weight": 1.0
+      },
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_restore_energy",
+        "weight": 0.5
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "mat_ba_kich_thien",
+    "name_key": "mat_ba_kich_thien_name",
+    "desc_key": "mat_ba_kich_thien_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_dong_bang",
+    "climate_key": "clim_am_thap",
+    "element_key": "elem_thuy",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 200,
+    "growth_years_range": [
+      3,
+      20
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_boost_max_energy",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_body_refining",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_restore_energy",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.1
+      }
+    ]
+  },
+  {
+    "id": "mat_duong_quy",
+    "name_key": "mat_duong_quy_name",
+    "desc_key": "mat_duong_quy_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_on_hoa",
+    "element_key": "elem_moc",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 230,
+    "growth_years_range": [
+      2,
+      10
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_restore_vitality",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_regen_vitality",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.15
+      }
+    ]
+  },
+  {
+    "id": "mat_xuyen_khung",
+    "name_key": "mat_xuyen_khung_name",
+    "desc_key": "mat_xuyen_khung_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_on_hoa",
+    "element_key": "elem_moc",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 210,
+    "growth_years_range": [
+      2,
+      10
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_restore_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_spirit_focus",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_berserk",
+        "trigger_chance": 0.15
+      }
+    ]
+  },
+  {
+    "id": "mat_phu_tu",
+    "name_key": "mat_phu_tu_name",
+    "desc_key": "mat_phu_tu_desc",
+    "grade_key": "grade_huyen_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_bang_han",
+    "element_key": "elem_hoa",
+    "nature_key": "nat_dai_nhiet",
+    "base_potency": 1000,
+    "growth_years_range": [
+      5,
+      50
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_restore_vitality",
+        "weight": 1.0
+      },
+      {
+        "effect_key": "eff_boost_max_energy",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.7
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.3
+      },
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "mat_doan_truong_thao",
+    "name_key": "mat_doan_truong_thao_name",
+    "desc_key": "mat_doan_truong_thao_desc",
+    "grade_key": "grade_dia_pham",
+    "habitat_key": "hab_dong_bang",
+    "climate_key": "clim_hoa_nhiet",
+    "element_key": "elem_vo_tinh",
+    "nature_key": "nat_dai_han",
+    "base_potency": 3000,
+    "growth_years_range": [
+      1,
+      10
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.1
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.5
+      },
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.5
+      },
+      {
+        "effect_key": "eff_hidden_berserk",
+        "trigger_chance": 0.5
+      }
+    ]
+  },
+  {
+    "id": "mat_hoang_ky",
+    "name_key": "mat_hoang_ky_name",
+    "desc_key": "mat_hoang_ky_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_on_hoa",
+    "element_key": "elem_tho",
+    "nature_key": "nat_vi_nhiet",
+    "base_potency": 200,
+    "growth_years_range": [
+      3,
+      40
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_boost_max_vitality",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_regen_vitality",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_body_refining",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.1
+      },
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.05
+      }
+    ]
+  },
+  {
+    "id": "mat_dai_hoang",
+    "name_key": "mat_dai_hoang_name",
+    "desc_key": "mat_dai_hoang_desc",
+    "grade_key": "grade_linh_pham",
+    "habitat_key": "hab_nui_cao",
+    "climate_key": "clim_am_thap",
+    "element_key": "elem_thuy",
+    "nature_key": "nat_vi_han",
+    "base_potency": 220,
+    "growth_years_range": [
+      3,
+      40
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.9
+      },
+      {
+        "effect_key": "eff_breakthrough",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_restore_energy",
+        "weight": 0.6
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_vital_exhaust",
+        "trigger_chance": 0.25
+      },
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.15
+      }
+    ]
+  },
+  {
+    "id": "mat_kim_ngan_hoa",
+    "name_key": "mat_kim_ngan_hoa_name",
+    "desc_key": "mat_kim_ngan_hoa_desc",
+    "grade_key": "grade_pham_pham",
+    "habitat_key": "hab_rung_nguyen_sinh",
+    "climate_key": "clim_on_hoa",
+    "element_key": "elem_kim",
+    "nature_key": "nat_vi_han",
+    "base_potency": 40,
+    "growth_years_range": [
+      1,
+      10
+    ],
+    "main_effects": [
+      {
+        "effect_key": "eff_detox",
+        "weight": 0.8
+      },
+      {
+        "effect_key": "eff_restore_vitality",
+        "weight": 0.7
+      },
+      {
+        "effect_key": "eff_body_refining",
+        "weight": 0.5
+      }
+    ],
+    "hidden_effects": [
+      {
+        "effect_key": "eff_hidden_meridian_block",
+        "trigger_chance": 0.08
+      }
+    ]
+  }
+]
